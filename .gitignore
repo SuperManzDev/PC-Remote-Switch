@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment & Secrets
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+
+# Build Artifacts
+bin/
+obj/
+dist/
+build/
+.pio/
+*.o
+*.apk
